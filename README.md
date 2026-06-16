@@ -162,3 +162,14 @@ Anurag University
 ## 📜 License
 
 This project is developed for educational and internship purposes.
+
+
+## 📸 Application Screenshots
+
+![AI FAQ Chatbot Pro](assets/home.png)
+
+![AI FAQ Chatbot Pro](assets/faq_response.png)
+
+![AI FAQ Chatbot Pro](assets/gemini_response.png)
+
+![AI FAQ Chatbot Pro](assets/off_topic.png)
