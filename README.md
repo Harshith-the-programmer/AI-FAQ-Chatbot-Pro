@@ -166,10 +166,14 @@ This project is developed for educational and internship purposes.
 
 ## 📸 Application Screenshots
 
+1. Home
 ![AI FAQ Chatbot Pro](assets/home.png)
 
+2. FAQ Response
 ![AI FAQ Chatbot Pro](assets/faq_response.png)
 
+3. Gemini Response
 ![AI FAQ Chatbot Pro](assets/gemini_response.png)
 
+4. Off Topic Response
 ![AI FAQ Chatbot Pro](assets/off_topic.png)
