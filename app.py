@@ -231,7 +231,7 @@ def generate_response(user_question):
     )
 
     # High confidence FAQ answer
-    if score >= 0.50:
+    if score >= 0.80:
 
         return (
             faq_answer,
