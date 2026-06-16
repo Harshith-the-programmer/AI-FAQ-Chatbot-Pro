@@ -1,12 +1,14 @@
 # 🤖 AI FAQ Chatbot Pro
 
-<img src="https://img.shields.io/badge/Python-3.10+-blue">
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-App-red">
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NLP-TFIDF-green">
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google-Gemini-orange">
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10+-blue">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-App-red">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NLP-TFIDF-green">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google-Gemini-orange">
+</p>
 
 An intelligent FAQ Chatbot built using NLP, TF-IDF Vectorization, Cosine Similarity, Streamlit, and Google Gemini AI.
 
