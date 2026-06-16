@@ -1,0 +1,71 @@
+
+/* Main Layout */
+.main {
+    padding-top: 1rem;
+}
+
+/* Title */
+h1 {
+    text-align: center;
+    font-weight: 700;
+}
+
+/* Subtitle */
+.subtitle {
+    text-align: center;
+    color: #bdbdbd;
+    margin-bottom: 20px;
+}
+
+/* Response Card */
+.response-card {
+    background-color: #1f2937;
+    padding: 15px;
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #374151;
+}
+
+/* Badge Styles */
+.badge {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.badge-faq {
+    background-color: #14532d;
+    color: white;
+}
+
+.badge-gemini {
+    background-color: #1e3a8a;
+    color: white;
+}
+
+.badge-high {
+    background-color: #166534;
+    color: white;
+}
+
+.badge-medium {
+    background-color: #92400e;
+    color: white;
+}
+
+.badge-low {
+    background-color: #991b1b;
+    color: white;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    color: gray;
+    font-size: 13px;
+}

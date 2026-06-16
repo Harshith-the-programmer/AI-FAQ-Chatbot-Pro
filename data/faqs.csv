@@ -1,0 +1,101 @@
+question,answer
+What is artificial intelligence?,Artificial Intelligence is the simulation of human intelligence by machines.
+What is machine learning?,Machine Learning is a subset of AI that enables systems to learn from data.
+What is deep learning?,Deep Learning is a subset of Machine Learning based on neural networks.
+What is NLP?,Natural Language Processing enables computers to understand human language.
+What is computer vision?,Computer Vision helps machines interpret and understand images and videos.
+What is supervised learning?,Supervised learning uses labeled data for training.
+What is unsupervised learning?,Unsupervised learning finds patterns in unlabeled data.
+What is reinforcement learning?,Reinforcement learning learns through rewards and penalties.
+What is a neural network?,A neural network is a computational model inspired by the human brain.
+Why is AI important?,AI helps automate tasks improve efficiency and support decision making.
+What is Generative AI?,Generative AI creates new content such as text images audio video and code.
+What is ChatGPT?,ChatGPT is an AI chatbot developed by OpenAI using large language models.
+What is an LLM?,A Large Language Model is trained on massive amounts of text data to understand and generate language.
+How is NLP used in chatbots?,NLP helps chatbots understand user questions interpret intent and generate meaningful responses.
+What is a transformer model?,A transformer is a deep learning architecture widely used in modern language models.
+What is prompt engineering?,Prompt engineering is the practice of designing effective prompts for AI models.
+What is transfer learning?,Transfer learning reuses knowledge learned from one task to improve performance on another task.
+What is overfitting?,Overfitting occurs when a model learns training data too well and performs poorly on unseen data.
+What is underfitting?,Underfitting occurs when a model fails to learn important patterns from training data.
+What is feature engineering?,Feature engineering is the process of creating useful features from raw data for machine learning models.
+What is a chatbot?,A chatbot is a software application that simulates conversations with users.
+What is computer vision?,Computer Vision enables machines to understand and analyze images and videos.
+What is data science?,Data Science combines statistics programming and domain expertise to extract insights from data.
+What is classification?,Classification is a machine learning task that predicts categorical labels.
+What is regression?,Regression is a machine learning task used to predict continuous numerical values.
+What is clustering?,Clustering is an unsupervised learning technique that groups similar data points together.
+What is a dataset?,A dataset is a collection of data used for analysis and machine learning.
+What is training data?,Training data is the data used to train a machine learning model.
+What is testing data?,Testing data is used to evaluate the performance of a trained model.
+What is validation data?,Validation data is used to tune model parameters during training.
+What is a prediction model?,A prediction model uses data patterns to forecast future outcomes.
+What is a recommendation system?,A recommendation system suggests products services or content based on user preferences.
+What is sentiment analysis?,Sentiment analysis identifies emotions opinions or attitudes expressed in text.
+What is text mining?,Text mining is the process of extracting useful information from textual data.
+What is tokenization?,Tokenization is the process of splitting text into smaller units called tokens.
+What are stop words?,Stop words are commonly used words that are often removed during text preprocessing.
+What is stemming?,Stemming reduces words to their root form by removing suffixes.
+What is lemmatization?,Lemmatization reduces words to their base dictionary form.
+What is TF-IDF?,TF-IDF is a technique that measures the importance of a word in a document relative to a collection of documents.
+What is cosine similarity?,Cosine similarity measures the similarity between two text vectors based on the angle between them.
+What is an embedding?,An embedding is a numerical representation of data that captures semantic meaning.
+What is a vector database?,A vector database stores and retrieves embeddings for similarity search.
+What is RAG?,Retrieval Augmented Generation combines information retrieval with generative AI to improve responses.
+What is fine tuning?,Fine tuning is the process of adapting a pre-trained model to a specific task using additional training data.
+What is a large language model?,A large language model is an AI model trained on vast amounts of text to understand and generate human language.
+What is Gemini?,Gemini is a family of multimodal AI models developed by Google.
+What is OpenAI?,OpenAI is an artificial intelligence research and deployment company.
+What is prompt?,A prompt is the input instruction or question given to an AI model.
+What is model accuracy?,Model accuracy measures how often a machine learning model makes correct predictions.
+What is bias in AI?,Bias in AI occurs when a model produces unfair or systematically skewed results.
+What is zero shot learning?,Zero shot learning enables a model to perform tasks it has never explicitly seen during training.
+What is few shot learning?,Few shot learning allows a model to learn a task using only a small number of examples.
+What is attention mechanism?,The attention mechanism helps a model focus on the most relevant parts of the input data.
+What is multimodal AI?,Multimodal AI can process and understand multiple types of data such as text images audio and video.
+What is hallucination in AI?,Hallucination occurs when an AI model generates incorrect or fabricated information that appears believable.
+What is context window?,A context window is the amount of information an AI model can consider while generating a response.
+What is retrieval in RAG?,Retrieval is the process of fetching relevant information from a knowledge base before generating an answer.
+What is semantic search?,Semantic search finds information based on meaning and context rather than exact keyword matching.
+What is vector similarity search?,Vector similarity search finds data points that are closest in meaning using vector representations.
+What is chunking in RAG?,Chunking is the process of splitting large documents into smaller sections for retrieval and processing.
+Why are embeddings important?,Embeddings capture semantic meaning and enable similarity search recommendation systems and retrieval tasks.
+What is a vector embedding?,A vector embedding is a numerical representation of text images or other data in a high dimensional space.
+What is prompt chaining?,Prompt chaining involves linking multiple prompts together to solve complex tasks step by step.
+What is chain of thought prompting?,Chain of thought prompting encourages a model to reason through intermediate steps before giving an answer.
+What is temperature in AI models?,Temperature controls the randomness and creativity of responses generated by AI models.
+What is token limit?,A token limit is the maximum number of tokens an AI model can process in a single request.
+What is model inference?,Inference is the process of using a trained model to make predictions or generate outputs.
+What is model training?,Model training is the process of teaching a model using data and optimization algorithms.
+What is gradient descent?,Gradient descent is an optimization algorithm used to minimize errors during model training.
+What is backpropagation?,Backpropagation is a learning algorithm used to update neural network weights based on prediction errors.
+What is precision in machine learning?,Precision measures the proportion of positive predictions that are actually correct.
+What is recall in machine learning?,Recall measures the proportion of actual positive cases correctly identified by a model.
+What is F1 score?,F1 score is the harmonic mean of precision and recall used to evaluate classification models.
+What is confusion matrix?,A confusion matrix is a table used to evaluate the performance of a classification model.
+What is data preprocessing?,Data preprocessing involves cleaning transforming and preparing raw data before model training.
+What is feature selection?,Feature selection is the process of choosing the most relevant features for model training.
+What is explainable AI?,Explainable AI focuses on making AI model decisions understandable to humans.
+What is responsible AI?,Responsible AI refers to developing and using AI systems in an ethical fair and transparent manner.
+What is AI ethics?,AI ethics involves principles and guidelines for the responsible development and deployment of AI systems.
+What is model deployment?,Model deployment is the process of making a trained machine learning model available for real world use.
+What is supervised classification?,Supervised classification is a machine learning technique that assigns predefined labels to input data.
+What is anomaly detection?,Anomaly detection identifies unusual patterns or outliers in data.
+What is dimensionality reduction?,Dimensionality reduction reduces the number of features while preserving important information.
+What is PCA?,Principal Component Analysis is a dimensionality reduction technique that transforms data into fewer variables.
+What is data visualization?,Data visualization is the graphical representation of data using charts graphs and dashboards.
+What is big data?,Big data refers to extremely large and complex datasets that require advanced processing techniques.
+What is data analytics?,Data analytics is the process of examining data to discover useful insights and support decision making.
+What is predictive analytics?,Predictive analytics uses historical data and machine learning to forecast future outcomes.
+What is business intelligence?,Business Intelligence uses data analysis and reporting tools to support business decisions.
+What is cloud computing?,Cloud computing provides on demand access to computing resources over the internet.
+What is edge AI?,Edge AI runs artificial intelligence models directly on local devices instead of cloud servers.
+What is federated learning?,Federated learning trains machine learning models across multiple devices without sharing raw data.
+What is synthetic data?,Synthetic data is artificially generated data used for training testing and research purposes.
+What is data augmentation?,Data augmentation increases training data by creating modified versions of existing data.
+What is knowledge distillation?,Knowledge distillation transfers knowledge from a large model to a smaller model.
+What is model compression?,Model compression reduces the size and computational requirements of machine learning models.
+What is AI agent?,An AI agent is a system that can perceive its environment make decisions and perform actions to achieve goals.
+What is autonomous AI?,Autonomous AI refers to systems that can operate and make decisions with minimal human intervention.
+What is conversational AI?,Conversational AI enables machines to interact with humans using natural language conversations.
+What is AI automation?,AI automation combines artificial intelligence with automated workflows to perform tasks efficiently.
